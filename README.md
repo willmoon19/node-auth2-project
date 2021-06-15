@@ -11,7 +11,7 @@ Use `Node.js`, `Express` and `Knex` to build an API with authentication and auth
 There are two possible ways to submit your project. Your instructor should have communicated which method to use for this project during the Guided Project and in your cohort's Slack channel. If you are still unsure, reach out to Lambda Staff.
 
 #### Option A - Codegrade
-
+a
 - [ ] Fork and clone the repository.
 - [ ] Open the assignment in Canvas and click on the "Set up git" option.
 - [ ] Follow instructions to set up Codegrade's Webhook and Deploy Key.
